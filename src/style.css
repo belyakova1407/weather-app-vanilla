@@ -51,3 +51,9 @@ li::first-letter {
   font-size: 16px;
   top: -34px;
 }
+#temperature {
+  color: #48484a;
+}
+#author {
+  color: #48484a;
+}
