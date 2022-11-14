@@ -55,6 +55,8 @@ li::first-letter {
 }
 #temperature {
   color: #48484a;
+  max-width: 100%;
+  height: auto;
 }
 #author {
   color: #48484a;
